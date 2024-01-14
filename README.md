@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kai Tanaka 👋
 
 <!--
 **ka1ut/ka1ut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
