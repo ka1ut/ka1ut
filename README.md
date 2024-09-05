@@ -6,5 +6,3 @@
 ## Activite
 - 2023 Mitou Jr. Super Creator.
 - 44th U-22 Programming Contest Cybozu Award
-- Tobitate! Study Abroad Japan Program
-
